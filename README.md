@@ -21,5 +21,10 @@
   - Stereo, bit/48kHz로 녹음된 1초 이상의 길이제한이 없는 오디오클립
   - 수량 :  500개
 
+# Contributors
+* 
+* 김남균 (skarbs001@gist.ac.kr, GIST, 박사과정)
+
+
 # Acknowledgement
 This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) (No. 2019-0-01767, Development of Machine Learning-Based Acoustic Intelligence Technology for Disaster Response Using Drones)
