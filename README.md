@@ -24,6 +24,7 @@
 # Contributors
 * 
 * 김남균 (skarbs001@gist.ac.kr, GIST, 박사과정)
+* 이정혁 (ljh0412@gist.ac.kr, GIST, 박사과정)
 * 박동건 (dongkeon@gist.ac.kr, GIST, 통합과정)
 
 
